@@ -5,7 +5,7 @@
 
 <h2>Description</h2>
 
-<p>*This scenario was completed during the Google Cybersecurity Certificate Program and is based on a fictional company:*</p>
+<p><em>This scenario was completed during the Google Cybersecurity Certificate Program and is based on a fictional company:</em></p>
 
 You are a cybersecurity analyst working for a multimedia company that offers web design services, graphic design, and social media marketing solutions to small businesses. Your organization recently experienced a DDoS attack, which compromised the internal network for two hours until it was resolved.
 
