@@ -1,7 +1,5 @@
 <h1>Apply NIST Cybersecurity Framework</h1>
 
-### [YouTube Demonstration](https://youtu.be/aw0lRTLB790)
-
 
 <h2>Description</h2>
 
